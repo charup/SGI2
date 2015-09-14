@@ -1,7 +1,7 @@
 <?php
 $servername = "localhost";
-$username = "username";
-$password = "password";
+$username = "root";//"username";
+$password = "UnivPass123";//"password";
 	$dbname = "mydb";
 
 // Create connection
